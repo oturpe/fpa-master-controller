@@ -1,0 +1,5 @@
+projectName=oturpe-avr-project-template
+sourceDir=src
+targetDir=target
+mcu=atmega328p
+programmer=arduinoisp
